@@ -1,0 +1,12 @@
+kurpiyer 4 kart çeker ve sırayla oyuncudan başlayarak kartları dağıtır. Kendi 2. kartını ise kapalı olarak alır.
+
+Kartlardaki renklerin bir önemi yoktur. Puanlama yaparken sadece kartların sayı değerlerine bakılır. Kartların sayı değerleri sırası ile şu şekildedir:
+2, 3, 4, 5, 6, 7, 8, 9,10 kartları sayıları kadardır.
+J, Q ve K  10 puan değerindedir.
+Asın ise özel bir durumu vardır. Duruma göre 1 puan ya da 11 puan olarak değerlendirilir.
+
+Yirmibir ( Blackjack ) Nasıl Oynanır ?
+-Yirmibir oyununda oyuncu kendine sıra geldiğinde elindeki kartların değerleri 21 olana kadar kart çekebilir.
+-Oyuncu kart istemeyene kadar bu durum böyle devam eder.
+-Daha sonra kurpiyer elindeki kapalı kartı açar ve kartlarının değeri 17 veya 17yi geçene kadar kart çekmeye devam eder.
+-En son Elindeki kartların değeri 21e en yakın olan kazanır ama eğer oyuncu 21 puanı geçerse kaybeder!
